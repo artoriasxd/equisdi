@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Currículo Vittae</title>
+
+  <link rel="stylesheet" href="../atv.css/atv01.css">
+</head>
+
+
+<body>
+  <h1>Currículo Vittae </h1>
+  <hr />
+  <p><b>Nome:</b> Arthur Magnus</p>
+  <p><b>Idade:</b>  15 anos</p>
+  <p><b>Objetivo:</b> ainda não decidido </p>
+  <hr />
+  <h2>Qualificações</h2>
+
+  <ul class="lista_01">
+    <li>aluno do curso tecnico de TI do senac</li>
+    <li>ingles fluente</li>
+    <li>sei cozinhar</li>
+    <li>desenho muito bem</li>
+    <li>sou dedicado, qualquer coisa que me ensinar eu aprendo rapido</li>
+  </ul>
+
+</body>
+
+</html>
